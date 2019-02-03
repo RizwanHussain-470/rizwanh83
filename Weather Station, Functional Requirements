@@ -1,0 +1,7 @@
+The user should be able to acess data such as temperature, pressure, sunshine, raifall, wind speed and wind direction every hour.
+Changes in data should be timely monitored and updated in the system.
+The system should monitor all the insturemnts used(health and condition).
+The system should report faults if any occur.
+The system should shutdown if there is potentially damaging weather.
+The system should allow for dynamic redonfiguration for updates.(new version)
+The backup generator should be on if there is a loss of electricity and immediately backup data.
